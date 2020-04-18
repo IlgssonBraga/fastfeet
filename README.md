@@ -27,3 +27,13 @@ Below some of the technologies used: </p>
   <a href="https://classic.yarnpkg.com/pt-BR/package/react-icons"><li>React Icons</li></a>
   <a href="https://classic.yarnpkg.com/pt-BR/package/react-native-vector-icons"><li>React Native Vector Icons</li></a>
 </ul>
+
+<p align="center"><img src=".github/web00.png"/></p>
+<p align="center"><img src=".github/web01.png"/></p>
+<p align="center"><img src=".github/web02.png"/></p>
+<p align="center"><img src=".github/web03.png"/></p>
+<p align="center"><img src=".github/web04.png"/></p>
+<p align="center"><img src=".github/web05.png"/></p>
+<p align="center"><img src=".github/web06.png"/></p>
+<p align="center"><img src=".github/web07.png"/></p>
+<p align="center"><img src=".github/web08.png"/></p>
