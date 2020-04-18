@@ -51,3 +51,59 @@ Below some of the technologies used: </p>
 <p align="center"><img width="250" src=".github/mobile07.jpeg"/></p>
 <p align="center"><img width="250" src=".github/mobile08.jpeg"/></p>
 
+# How to use
+
+## Backend
+
+<p> First things first, it is necessary to have the <a href="https://www.docker.com/">docker</a> installed. After, run: </p>
+
+``docker run --name postgres -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
+``
+
+``docker run --name fastredis -p 6379:6379 -d redis:apline
+``
+<br/>
+<p>After this, run on backend directory: </p>
+
+``yarn
+``
+
+``yarn sequelize db:migrate
+``
+
+``yarn sequelize db:seed:all
+``
+
+``yarn dev
+``
+
+``yarn queue
+``
+
+## Web
+
+<br/>
+<p>For web, is a little bit simpler. Just run on web directory: </p>
+
+``yarn
+``
+
+``yarn start
+``
+
+## Mobile
+
+<br/>
+<p>Configure the android/iOS environment (<a href="https://docs.rocketseat.dev/ambiente-react-native/introducao">Rocketseat Docs</a>). After, run: </p>
+
+``yarn
+``
+
+``npx react-native run-android
+``
+
+``npx react-native start
+``
+<br/>
+
+<p>Once this is done, you will be ready to run FastFeet. Enjoy!</p>
