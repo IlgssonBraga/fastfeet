@@ -114,4 +114,4 @@ This project is under MIT license. Look [License](LICENSE.md) for more details!
 
 --- 
 
-Made by [Ilgsson Braga] with :heart: (https://github.com/IlgssonBraga)
+Made by [Ilgsson Braga](https://github.com/IlgssonBraga) with :heart:
