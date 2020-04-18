@@ -2,7 +2,7 @@
 
 # About
 
-<p> Application made during the Bootcamp GoStack 10. This is for a fictitious carrier application. The Backend was made with Node.JS, Frontend Web with ReactJS and mobile with React Native. 
+<p> Application made during the Bootcamp GoStack 10. This is a application for a fictitious carrier. The Backend was made with Node.JS, Frontend Web with ReactJS and mobile with React Native. 
 Below some of the technologies used: </p>
 
 <ul>
