@@ -2,7 +2,7 @@
 
 # :page_with_curl: About
 
-<p> Application made during the Bootcamp GoStack 10. This is a application for a fictitious carrier. The Backend was made with Node.JS, Frontend Web with ReactJS and mobile with React Native. 
+<p> Application made during the Bootcamp GoStack 10. This is a application for a fictitious carrier. The Backend was made with Node.JS, Frontend Web with ReactJS and mobile with React Native. The web part was made for the administrator to manage the deliverers, the recipients, to view the problems in the orders, to cancel the orders with problems. A mobile part was made for deliveryman have access as their orders, record problems and finalize deliveries.
 Below some of the technologies used: </p>
 
 <ul>
@@ -104,7 +104,17 @@ Below some of the technologies used: </p>
 ``
 <br/>
 
-<p>Once this is done, you will be ready to run FastFeet. Enjoy!</p>
+## :black_nib: Login
+
+<p>Once the steps above are done, you will be ready to run FastFeet. For login in web app use:</p>
+<p align="center">login: admin@fastfeet.com</p>
+<p align="center">password: 123456</p>
+
+<br/>
+
+<p>For mobile login, just use the deliveryman id.</p>
+
+<p>Enjoy!</p>
 
 ## :memo: License
 
