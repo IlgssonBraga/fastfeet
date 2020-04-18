@@ -1,6 +1,4 @@
-# Fastfeet
-
-<img src=".github/fastfeet-logo.png"/>
+<p align="center"><img src=".github/fastfeet-logo.png"/></p>
 
 # About
 
