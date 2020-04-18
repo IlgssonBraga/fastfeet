@@ -10,6 +10,8 @@ Below some of the technologies used: </p>
   <a href="https://sentry.io/organizations/ilgssonbraga/issues/"><li>Sentry</li></a>
   <a href="https://github.com/bee-queue/bee-queue"><li>Bee Queue</li></a>
   <a href="https://mailtrap.io/"><li>Mailtrap</li></a>
+  <a href="https://classic.yarnpkg.com/pt-BR/package/redis"><li>Redis</li></a>
+  <a href="https://www.docker.com/"><li>Docker</li></a>
   <a href="https://classic.yarnpkg.com/pt-BR/package/jsonwebtoken"><li>JSON Web Token</li></a>
   <a href="https://classic.yarnpkg.com/pt-BR/package/multer"><li>Multer</li></a>
   <a href="https://classic.yarnpkg.com/pt-BR/package/sequelize"><li>Postgres with Sequelize</li></a>
