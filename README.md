@@ -1,6 +1,6 @@
 <p align="center"><img src=".github/fastfeet-logo.png"/></p>
 
-# About
+# :page_with_curl: About
 
 <p> Application made during the Bootcamp GoStack 10. This is a application for a fictitious carrier. The Backend was made with Node.JS, Frontend Web with ReactJS and mobile with React Native. 
 Below some of the technologies used: </p>
@@ -51,9 +51,9 @@ Below some of the technologies used: </p>
 <p align="center"><img width="250" src=".github/mobile07.jpeg"/></p>
 <p align="center"><img width="250" src=".github/mobile08.jpeg"/></p>
 
-# How to use
+# :hammer: How to use
 
-## Backend
+## :green_book: Backend
 
 <p> First things first, it is necessary to have the <a href="https://www.docker.com/">docker</a> installed. After, run: </p>
 
@@ -80,7 +80,7 @@ Below some of the technologies used: </p>
 ``yarn queue
 ``
 
-## Web
+## :computer: Web
 
 <br/>
 <p>For web, is a little bit simpler. Just run on web directory: </p>
@@ -91,10 +91,10 @@ Below some of the technologies used: </p>
 ``yarn start
 ``
 
-## Mobile
+## :iphone: Mobile
 
 <br/>
-<p>Configure the android/iOS environment (<a href="https://docs.rocketseat.dev/ambiente-react-native/introducao">Rocketseat Docs</a>). After, run: </p>
+<p>Configure the android/iOS environment (<a href="https://docs.rocketseat.dev/ambiente-react-native/introducao">Rocketseat Docs</a>). After, run on mobile directory: </p>
 
 ``yarn
 ``
@@ -107,3 +107,11 @@ Below some of the technologies used: </p>
 <br/>
 
 <p>Once this is done, you will be ready to run FastFeet. Enjoy!</p>
+
+## :memo: License
+
+This project is under MIT license. Look [License](LICENSE.md) for more details!
+
+--- 
+
+Made by [Ilgsson Braga] with :heart: (https://github.com/IlgssonBraga)
