@@ -28,7 +28,7 @@ Below some of the technologies used: </p>
   <a href="https://classic.yarnpkg.com/pt-BR/package/react-native-vector-icons"><li>React Native Vector Icons</li></a>
 </ul>
 
-## WEB
+## :mag_right: Overview
 
 <p align="center"><img src=".github/web00.png"/></p>
 <p align="center"><img src=".github/web01.png"/></p>
@@ -39,8 +39,6 @@ Below some of the technologies used: </p>
 <p align="center"><img src=".github/web06.png"/></p>
 <p align="center"><img src=".github/web07.png"/></p>
 <p align="center"><img src=".github/web08.png"/></p>
-
-## Mobile
 
 <p align="center"><img width="250" src=".github/mobile01.jpeg"/></p>
 <p align="center"><img width="250" src=".github/mobile02.jpeg"/></p>
